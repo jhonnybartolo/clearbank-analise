@@ -89,10 +89,3 @@ ID: 12 | Cliente: CLI003 | Data: 2026-03-11 | Valor: R$ 12.045,80
 
 Os requisitos opcionais (análise alternativa com `pandas` em `analise_pandas.py` e gráfico com `matplotlib` em `grafico.png`) **não foram implementados** neste projeto. O notebook cobre apenas os requisitos obrigatórios, usando somente módulos nativos do Python.
 
-## Estrutura do repositório
-
-```
-clearbank-analise/
-├── desafio-final.ipynb   # notebook com o código e as saídas salvas
-└── README.md              # este arquivo
-```
