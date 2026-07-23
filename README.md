@@ -88,4 +88,4 @@ ID: 12 | Cliente: CLI003 | Data: 2026-03-11 | Valor: R$ 12.045,80
 ## Requisitos opcionais
 
 Os requisitos opcionais (análise alternativa com `pandas` em `analise_pandas.py` e gráfico com `matplotlib` em `grafico.png`) **não foram implementados** neste projeto. O notebook cobre apenas os requisitos obrigatórios, usando somente módulos nativos do Python.
-
+ 
